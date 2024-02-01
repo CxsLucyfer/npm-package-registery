@@ -11,5 +11,8 @@
   "repository": {
     "url": "git://github.com/black1512/npm-package-registery.git."
   },
+  "publishConfig": {
+    "@black1512:registry": "https://npm.pkg.github.com"
+  },
   "license": "ISC"
 }
